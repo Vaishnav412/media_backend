@@ -1,0 +1,110 @@
+{
+  "videos": [
+    {
+      "id": "15",
+      "caption": "leo",
+      "thumbnail": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/medium/leo-et00351731-1675663884.jpg",
+      "url": "https://www.youtube.com/embed/rKye92fN3Hc"
+    },
+    {
+      "id": "4",
+      "caption": "salar",
+      "thumbnail": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/medium/leo-et00351731-1675663884.jpg",
+      "url": "https://www.youtube.com/embed/rKye92fN3Hc"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "MALAYALAM",
+      "allVideos": [
+        {
+          "id": "7",
+          "caption": "salar",
+          "thumbnail": "https://staticimg.amarujala.com/assets/images/2023/06/25/salra-ma-parabhasa_1687681539.jpeg?w=414",
+          "url": "https://www.youtube.com/embed/rKye92fN3Hc"
+        },
+        {
+          "id": "15",
+          "caption": "leo",
+          "thumbnail": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/medium/leo-et00351731-1675663884.jpg",
+          "url": "https://www.youtube.com/embed/rKye92fN3Hc"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "HINDI",
+      "allVideos": [
+        {
+          "id": "7",
+          "caption": "salar",
+          "thumbnail": "https://staticimg.amarujala.com/assets/images/2023/06/25/salra-ma-parabhasa_1687681539.jpeg?w=414",
+          "url": "https://www.youtube.com/embed/rKye92fN3Hc"
+        },
+        {
+          "id": "15",
+          "caption": "leo",
+          "thumbnail": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/medium/leo-et00351731-1675663884.jpg",
+          "url": "https://www.youtube.com/embed/rKye92fN3Hc"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "ENGLISH",
+      "allVideos": [
+        {
+          "id": "7",
+          "caption": "salar",
+          "thumbnail": "https://staticimg.amarujala.com/assets/images/2023/06/25/salra-ma-parabhasa_1687681539.jpeg?w=414",
+          "url": "https://www.youtube.com/embed/rKye92fN3Hc"
+        },
+        {
+          "id": "15",
+          "caption": "leo",
+          "thumbnail": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/medium/leo-et00351731-1675663884.jpg",
+          "url": "https://www.youtube.com/embed/rKye92fN3Hc"
+        }
+      ]
+    }
+  ],
+  "watchHistory": [
+    {
+      "id": "1",
+      "categoryName": "rdx",
+      "url": "https://www.youtube.com/embed/rKye92fN3Hc",
+      "date": "27-10-2023"
+    },
+    {
+      "id": "9c2f48e8-ee4c-4628-964c-fd9b67a2a817",
+      "categoryName": "rdx",
+      "url": "https://www.youtube.com/embed/rKye92fN3Hc",
+      "date": "2023-12-12T04:48:53.724Z"
+    },
+    {
+      "id": "77af833a-50ee-4a92-b700-92a1a3f7fe2c",
+      "categoryName": "rdx",
+      "url": "https://www.youtube.com/embed/rKye92fN3Hc",
+      "date": "2023-12-13T03:35:24.010Z"
+    },
+    {
+      "id": "079f8abc-cf17-44e0-adf1-d869653a399f",
+      "categoryName": "leo",
+      "url": "https://www.youtube.com/embed/rKye92fN3Hc",
+      "date": "2023-12-13T03:45:53.450Z"
+    },
+    {
+      "id": "c6397663-7378-4673-98a0-3d69ccf3cdc0",
+      "categoryName": "leo",
+      "url": "https://www.youtube.com/embed/rKye92fN3Hc",
+      "date": "2023-12-16T16:55:01.201Z"
+    },
+    {
+      "id": "99619d1b-1c6d-4556-912a-ae59d30c21c3",
+      "categoryName": "salar",
+      "url": "https://www.youtube.com/embed/rKye92fN3Hc",
+      "date": "2023-12-17T02:49:42.568Z"
+    }
+  ]
+}
